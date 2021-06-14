@@ -6,7 +6,7 @@ This project will be updated as I progress
 WASD - movement\
 R - reload\
 SPACEBAR - dash\
-Left Click - shoot (can also be held down)\
+Left Click - shoot (can also be held down)
 # Demo
 
 
